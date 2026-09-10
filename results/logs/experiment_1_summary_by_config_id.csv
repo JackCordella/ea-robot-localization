@@ -1,0 +1,2 @@
+config_id,n_runs,success_rate,mean_position_error,std_position_error,median_position_error,mean_theta_error,std_theta_error,median_theta_error,mean_best_fitness,std_best_fitness,mean_runtime_seconds
+default,500,0.616,1.6351525852536768,2.3087242253478193,0.057645339641116525,0.9929352087662463,1.3420305971227204,0.02112195829195085,0.9978479379196263,0.003053371335916094,11.78789245275993

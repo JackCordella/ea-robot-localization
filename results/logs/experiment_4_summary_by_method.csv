@@ -1,0 +1,2 @@
+method,n_runs,success_rate,mean_position_error,std_position_error,median_position_error,mean_theta_error,std_theta_error,median_theta_error,mean_best_fitness,std_best_fitness,mean_runtime_seconds
+perception_aware,720,0.5930555555555556,1.615422258439397,2.129170702096967,0.061690514672333635,0.981326997107975,1.2723789397990084,0.024705663895195684,0.996967164492142,0.0036184447445158597,11.840310555086015

@@ -1,0 +1,4 @@
+failure_type,n_runs,exact_success_rate,scan_equivalent_success_rate,ambiguity_gain,ambiguous_correct_rate,true_failure_rate,top5_scan_equivalent_success_rate,top5_ambiguity_gain,mean_output_scan_error,median_output_scan_error,mean_position_error,median_position_error
+ambiguous_correct,52,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0034454293536324673,0.0014887152777777715,3.279986309985029,3.5322938400816506
+exact_correct,47,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.00030700539302600405,7.324218749999996e-05,0.05635089310771249,0.0517236319246956
+true_failure,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.012932400173611061,0.012932400173611061,3.203539879640642,3.203539879640642

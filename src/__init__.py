@@ -1,0 +1,1 @@
+"""EA localization source package."""
