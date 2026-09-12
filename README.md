@@ -1,5 +1,7 @@
 # EA Localization Project
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22728714.svg)](https://doi.org/10.5281/zenodo.22728714)
+
 Static global robot localization in a known 2D occupancy map using an Evolutionary Algorithm.
 
 The project addresses a simplified kidnapped-robot/localization setting: the robot is static, the map is already known, and the algorithm receives a single range scan. The goal is to estimate the robot pose
@@ -986,6 +988,21 @@ Possible extensions include:
 This README is intended to help readers navigate the codebase and understand how each file contributes to the full localization pipeline.
 
 ---
+
+## Citation
+
+Archived on Zenodo. The DOI below always resolves to the latest version.
+
+```bibtex
+@software{cordella_22728714,
+  author    = {Cordella, G.},
+  title     = {Static Global Robot Localization in 2D Occupancy Maps using an Evolutionary Algorithm},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.22728714},
+  url       = {https://doi.org/10.5281/zenodo.22728714}
+}
+```
 
 ## 18. License
 
