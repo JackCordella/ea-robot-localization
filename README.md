@@ -991,9 +991,19 @@ This README is intended to help readers navigate the codebase and understand how
 
 ## Citation
 
-Archived on Zenodo. The DOI below always resolves to the latest version.
+Both the code and the report are archived on Zenodo. Each DOI below always resolves to the
+latest version. To cite the work itself, prefer the report.
 
 ```bibtex
+@techreport{cordella_22729482,
+  author      = {Cordella, G.},
+  title       = {Evolutionary Algorithm for Static Global Robot Localization in 2D Occupancy Maps},
+  year        = {2026},
+  institution = {Zenodo},
+  doi         = {10.5281/zenodo.22729482},
+  url         = {https://doi.org/10.5281/zenodo.22729482}
+}
+
 @software{cordella_22728714,
   author    = {Cordella, G.},
   title     = {Static Global Robot Localization in 2D Occupancy Maps using an Evolutionary Algorithm},
