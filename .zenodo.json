@@ -1,0 +1,9 @@
+{
+  "title": "Static Global Robot Localization in 2D Occupancy Maps using an Evolutionary Algorithm",
+  "upload_type": "software",
+  "description": "<p>Global localization of a static robot in a known 2D occupancy map, formulated as an optimization problem: a population of candidate poses (x, y, theta) evolves so that the range scan simulated from each candidate matches a single observed scan.</p><p>Because the approach returns a population rather than a single estimate, it makes ambiguous environments &mdash; where distinct poses produce near-identical scans &mdash; directly analysable. The experiment suite measures this across five maps, covering perception ablation, beam-count sensitivity, parameter tuning and a symmetry/scan-equivalence analysis.</p><p>The repository contains the full implementation, the five maps, the complete experimental outputs (raw and summarised CSV logs, plots and animations) and the accompanying report.</p>",
+  "creators": [{"name": "Cordella, Giacomo", "affiliation": "Bocconi University"}],
+  "license": "mit",
+  "access_right": "open",
+  "keywords": ["robot localization", "evolutionary algorithm", "occupancy grid", "LiDAR", "pose estimation", "scan matching", "mobile robotics"]
+}

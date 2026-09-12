@@ -12,6 +12,9 @@ by searching the continuous pose space and selecting the pose whose simulated sc
 
 The implementation is intentionally modular. The core localization logic is in `src/`, while the experimental protocol, large-scale runs, CSV generation, summaries, and ambiguity analysis are in `experiments/`.
 
+The full write-up is in
+[`report/Report_EA_Robot_Localization_Cordella.pdf`](report/Report_EA_Robot_Localization_Cordella.pdf).
+
 Install with `pip install -r requirements.txt`, then see [section 4](#4-how-to-run-the-project) — **note that `python main.py` does not run `main()`** by default.
 
 ---
