@@ -25,6 +25,12 @@
       "relation": "isSupplementTo",
       "resource_type": "publication-report",
       "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/JackCordella/ea-robot-localization",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
     }
   ]
 }
